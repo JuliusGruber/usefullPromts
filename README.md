@@ -1,6 +1,6 @@
 # usefullPromts
 
-A collection of useful prompts.
+Promts and their rationale
 
 ## Structure
 
